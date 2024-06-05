@@ -30,7 +30,7 @@ psutil
 pybase64
 pycountry
 pymongo
-pyrogram
+pyrofork
 pyrotgfork 
 python-dotenv
 python-magic
